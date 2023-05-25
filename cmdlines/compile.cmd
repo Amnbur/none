@@ -1,0 +1,1 @@
+g++ surface.cpp Rubiks_Cube_main.cpp -o2 -o Rubiks_Cube -g
